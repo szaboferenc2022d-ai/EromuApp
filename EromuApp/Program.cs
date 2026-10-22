@@ -26,7 +26,6 @@ if (data[0] == "Z")
     Szelgenerator++;
 }
 
-
 foreach (item eromu)
 {
     Console.WriteLine($"Sikeresen beolvasott erőművek: {item} db");
